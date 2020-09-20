@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543644692870",
+    "firebase_url": "https://command-agric.firebaseio.com",
+    "project_id": "command-agric",
+    "storage_bucket": "command-agric.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543644692870:android:9d8af7d171a9026d517c07",
+        "android_client_info": {
+          "package_name": "zw.co.cytex.duri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543644692870-ovuss3ehi2vhdq0se5084odtvt4f5qqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zw.co.cytex.duri",
+            "certificate_hash": "408d6ef2a0ef95ae80b335b4f0d7757d19b18819"
+          }
+        },
+        {
+          "client_id": "543644692870-bqfoabf5hr7kkvjjfcfsk2ql0rbbnic4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHH1nIu2P0PHO3pMohq7Vdh7zQJjJLmLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543644692870-bqfoabf5hr7kkvjjfcfsk2ql0rbbnic4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
